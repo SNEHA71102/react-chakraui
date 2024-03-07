@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-chakraui/static/css/main.503d4dc2.css",
+    "main.js": "/react-chakraui/static/js/main.38f8bb78.js",
+    "static/media/5.png": "/react-chakraui/static/media/5.9388ec8c6cacbb4d238e.png",
+    "static/media/3.jpg": "/react-chakraui/static/media/3.04220ae5e2dc07aa7c4a.jpg",
+    "static/media/1.jpg": "/react-chakraui/static/media/1.78647b876cebccd8114a.jpg",
+    "static/media/4.jpg": "/react-chakraui/static/media/4.c90b6850cbf9277ab0ec.jpg",
+    "static/media/2.jpg": "/react-chakraui/static/media/2.ff3c862f2c7188c34104.jpg",
+    "index.html": "/react-chakraui/index.html",
+    "main.503d4dc2.css.map": "/react-chakraui/static/css/main.503d4dc2.css.map",
+    "main.38f8bb78.js.map": "/react-chakraui/static/js/main.38f8bb78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503d4dc2.css",
+    "static/js/main.38f8bb78.js"
+  ]
+}
